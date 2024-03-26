@@ -50,6 +50,7 @@
 	},
 	"dependencies": {
 		"@reach/accordion": "^0.8.0",
+		"assert": "^2.1.0",
 		"date-fns": "^2.9.0",
 		"electron-is-dev": "^1.1.0",
 		"electron-store": "^5.1.0",
@@ -62,7 +63,7 @@
 		"@testing-library/react": "^13.4.0",
 		"@vitejs/plugin-react": "^2.1.0",
 		"cross-env": "^7.0.3",
-		"electron": "^22.0.2",
+		"electron": "^22.3.27",
 		"electron-builder": "^23.6.0",
 		"eslint": "^8.26.0",
 		"eslint-plugin-react": "^7.31.10",
